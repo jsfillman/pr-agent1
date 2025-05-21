@@ -15,7 +15,7 @@
 [Tools Guide](https://qodo-merge-docs.qodo.ai/tools/) |
 [Qodo Merge](https://qodo-merge-docs.qodo.ai/overview/pr_agent_pro/) 💎
 
-PR-Agent aims to help efficiently review and handle pull requests, by providing AI feedback and suggestions
+Qodo's PR-Agent aims to help efficiently review and handle pull requests, by providing AI feedback and suggestions
 </div>
 
 [![Static Badge](https://img.shields.io/badge/Chrome-Extension-violet)](https://chromewebstore.google.com/detail/qodo-merge-ai-powered-cod/ephlnjeghhogofkifjloamocljapahnl)
